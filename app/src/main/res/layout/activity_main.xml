@@ -17,6 +17,7 @@
         app:menu="@menu/bottom_navigation_main"
         >
 
+
     </android.support.design.widget.BottomNavigationView>
 
 </RelativeLayout>

@@ -13,6 +13,11 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
     //Bottom Navigation View
 
+    //https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-practicals/content/en/Unit%201/31_p_using_the_debugger.html
+    //https://www.brainscape.com/flashcards/android-6406084/packs/10052618
+    //https://github.com/google-developer-training/android-fundamentals/tree/master/ScrollingText
+    //https://developer.android.com/training/snackbar/index.html
+
     BottomNavigationView bottomNavigationView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
